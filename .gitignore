@@ -1,0 +1,10 @@
+# Python temporary files
+__pycache__/
+*.pyc
+
+# PyCharm settings
+.idea/
+
+# Private files
+.env
+students.csv
